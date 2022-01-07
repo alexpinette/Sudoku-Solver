@@ -1,0 +1,4 @@
+1. Create a .txt file in this directory.
+2. Go to the constructor of the Grid class in GUI.py.
+3. Uncomment and comment the file variable lines.
+4. Run the program.
